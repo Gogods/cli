@@ -24,7 +24,7 @@ package main
 import (
 	"os"
 
-	"github.com/urfave/cli/v2"
+	"github.com/Gogods/cli"
 )
 
 func main() {
@@ -56,7 +56,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/urfave/cli/v2"
+	"github.com/Gogods/cli"
 )
 
 var (
